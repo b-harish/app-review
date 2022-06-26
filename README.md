@@ -11,4 +11,4 @@ This app supports authentication.
 [secrets]
 username = "password"
 ```
-* In the terminal, run `streamlit run app-review.py`
+* In the terminal, run `streamlit run app_review.py`
