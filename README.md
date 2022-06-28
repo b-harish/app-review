@@ -39,7 +39,7 @@ Note that ordered pairs of real numbers (a,b) a,b∈R form a vector space V. Whi
 * The set of pairs (a, b) for all non-negative real a,b
 
 **Answer**:
-* (a, a+1) is not a subspace of V because (0, 0) cannot be in the V'
+* (a, a+1) is **not a subspace of V** because (0, 0) cannot be in the V'
 
 * (a, b) for all real a >= b
     * (0, 0) exists
