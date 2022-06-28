@@ -39,3 +39,23 @@ Note that ordered pairs of real numbers (a,b) a,b∈R form a vector space V. Whi
 * The set of pairs (a, b) for all non-negative real a,b
 
 **Answer**:
+* (a, a+1) is not a subspace of V because (0, 0) cannot be in the V'
+
+* (a, b) for all real a >= b
+    * (0, 0) exists
+    * (2, 1) + (9, 9) = (11, 10) in the vector space
+    * -5(1, -2) = (-5, 10) **not closed under multiplication.**
+    * **Not a a subspace of V**
+
+* (a, 2a) for all real a
+    * (0, 0) exists
+    * (5, 10) + (6, 12) => (11, 22) in the vector space.
+    * (-9, -18) + (4, 8) => (-5, -10) in the vector space.
+    * 3(5, 10) => (15, 30) in the vector space.
+    * **a subspace of V**
+
+* (a, b) for all non-negative real a, b
+    * (0, 0) exists
+    * (2, 2) + (4, 4) => (6, 6) in the vector space
+    * -1(2, 2) => (-2, -2) not in vector space
+    * **Not a subspace of V**
