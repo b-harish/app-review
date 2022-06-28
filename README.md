@@ -8,7 +8,7 @@ This app supports authentication.
 * To use this app, create '.streamlit/secrets.toml' file.
 * Add below text to the file. Replace _username_ and _password_ appropriately.
 ```
-[secrets]
+[passwords]
 username = "password"
 ```
 * In the terminal, run `streamlit run app_review.py`
